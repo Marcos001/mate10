@@ -1,4 +1,4 @@
-# Mate 10  
+# Mate 10 - Tópicos em Inteligência Computacional I
 
 ## Atividades
 
